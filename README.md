@@ -5,6 +5,9 @@ Soil moisture refers to the amount of water in the soil. It is an important comp
 These technologies, however, are frequently time-consuming, costly, and unsuitable for large-scale applications. Precipitation, temperature, soil type, terrain, vegetation, and land use all have an impact on soil moisture. Soil moisture levels are influenced by precipitation and temperature, with places getting greater rainfall often having higher moisture levels.
 Soil moisture is also affected by soil type and topography, with clay soils storing more moisture than sandy soils and flat terrain experiencing more water pooling. Plants can assist maintain moisture or compete for it, while human activities such as agriculture, urbanisation, and deforestation can all have an impact on soil moisture. Overall, soil moisture is a complicated interaction of various elements that affects plant growth, water availability, and ecosystem health.
 
+![_2af0d2fd-2e1f-43b8-8af9-362754cbe6da](https://github.com/Vipul1019/AI-AGRICULTURE/assets/77145832/55145efb-8ac8-4545-bcd7-f788aee56575)
+
+
 
 # The dataset
 
