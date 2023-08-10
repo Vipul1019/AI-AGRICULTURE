@@ -74,21 +74,23 @@ The purpose of polynomial linear regression is to obtain the best-fit curve that
 
 Polynomial linear regression can be used to anticipate stock prices based on historical data, analyse the relationship between temperature and humidity, or estimate the performance of a product based on a range of criteria. It is a versatile and potent tool for simulating non-linear connections between variables. However, if the degree of the polynomial is too high, it is prone to over-fitting, and the model may not generalise effectively to new data.
 
-![Screenshot (73)](https://github.com/Vipul1019/AI-AGRICULTURE/assets/77145832/196b2224-82f5-4e6d-93fa-bc5e93646289)
-
-
-##
-
-
-
-
-
-
 
 
 
 # Results
 
 Based on our examination of the data presented, the Multivariate Polynomial Regression model outperforms the Multivariate Linear Regression model. The Multivariate Polynomial Regression model has been developed, attained an accuracy of 88.37%, indicating that it can predict the as compared to the Multivariate Linear Regression model.
+
+
+![Screenshot (73)](https://github.com/Vipul1019/AI-AGRICULTURE/assets/77145832/196b2224-82f5-4e6d-93fa-bc5e93646289)
+
+
+##
+
+
+![results](https://github.com/Vipul1019/AI-AGRICULTURE/assets/77145832/bd882391-cfa3-460f-8ac0-09877c77354c)
+
+The left side values are actual soil moisture values and the right side values are predicted soil moisture values.
+
 
 
