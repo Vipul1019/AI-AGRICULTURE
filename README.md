@@ -74,6 +74,14 @@ The purpose of polynomial linear regression is to obtain the best-fit curve that
 
 Polynomial linear regression can be used to anticipate stock prices based on historical data, analyse the relationship between temperature and humidity, or estimate the performance of a product based on a range of criteria. It is a versatile and potent tool for simulating non-linear connections between variables. However, if the degree of the polynomial is too high, it is prone to over-fitting, and the model may not generalise effectively to new data.
 
+![Screenshot (73)](https://github.com/Vipul1019/AI-AGRICULTURE/assets/77145832/196b2224-82f5-4e6d-93fa-bc5e93646289)
+
+
+##
+
+
+
+
 
 
 
